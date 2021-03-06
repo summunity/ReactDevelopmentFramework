@@ -1,0 +1,9 @@
+[
+    {
+        "category": "Demo",
+        "subcategory": "First Example",
+        "title": "Very Basic example",
+        "description": "Description of my very basic example",
+        "path": "Demo/BasicExample"
+    }
+]
